@@ -31,6 +31,7 @@
 
     <!-- Plugins -->
     <!-- Core plugins -->
+	<plugin name="phonegap-plugin-push" source="npm"  spec="2.0.0" />
     <plugin name="cordova-plugin-geolocation"         source="npm" spec="~2.4.3" />
 	<plugin name="cordova-plugin-splashscreen"        source="npm"/>
 	<plugin name="cordova-plugin-whitelist" source="npm"/>
@@ -41,7 +42,7 @@
         <splash src="static/img/icons/icon.png"/>
     </platform>
 
-    <platform name="ios">
+    <platform name="ios"
         <icon src="static/img/icons/icon.png" platform="ios"/>
         <splash src="static/img/icons/icon.png" platform="ios" width="320"  height="480" />
     </platform>
