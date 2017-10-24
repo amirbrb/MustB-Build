@@ -42,7 +42,7 @@
         <splash src="static/img/icons/icon.png"/>
     </platform>
 
-    <platform name="ios"
+    <platform name="ios">
         <icon src="static/img/icons/icon.png" platform="ios"/>
         <splash src="static/img/icons/icon.png" platform="ios" width="320"  height="480" />
     </platform>
