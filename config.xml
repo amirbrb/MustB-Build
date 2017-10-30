@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.amirbrb.mustb-tester" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://mustB.com/ns/1.0">
-    <name>MustB - Tester</name>
+<widget id="com.amirbrb.mustb" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://mustB.com/ns/1.0">
+    <name>MustB</name>
     <description>
-        MustB client application - tester
+        MustB client application
     </description>
     <author email="support@mustB.com" href="http://mustB.com">
         mustB team
