@@ -92,7 +92,7 @@ body{
   margin: 5px 5px 5px 5px;
 }
 .tab-pane{
-  width: 95%;
+  width: 99%;
 }
 .fade {
  -webkit-transition: opacity 1.5s linear;
@@ -105,3 +105,9 @@ body{
     opacity: 0;
 }
 
+.mb_title{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 20px;
+  font-weight: bolder;
+}
