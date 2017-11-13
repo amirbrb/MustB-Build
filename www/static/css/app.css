@@ -108,4 +108,14 @@ body{
  }
 .tab-content>.tab-pane:not(.active) {
     opacity: 0;
+<<<<<<< HEAD
+=======
+}
+
+.mb_title{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 20px;
+  font-weight: bolder;
+>>>>>>> 0be8ba49ae232d37b63b2b5ab8024880e0425578
 }
