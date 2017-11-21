@@ -122,10 +122,18 @@ body{
 .tab-content{
   position:relative;
   margin: 5px 5px 5px 5px;
+  height: 100%;
 }
+
 .tab-pane{
   width: 99%;
+  height: 100%;
 }
+
+.view-container{
+  height: 100%;
+}
+
 .fade {
  -webkit-transition: opacity 1.5s linear;
     -moz-transition: opacity 1.5s linear;
