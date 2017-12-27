@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.amirbrb.mustb" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://mustB.com/ns/1.0">
-    <name>MustB</name>
+<widget id="com.amirbrb.ukholo" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://ukholo-app.com/ns/1.0">
+    <name>ukholo</name>
     <description>
-        MustB client application
+        ukholo client application
     </description>
-    <author email="support@mustB.com" href="http://mustB.com">
-        mustB team
+    <author email="support@ukholo-app.com" href="http://ukholo-app.com">
+        ukholo team
     </author>
     <content src="index.html" />
     <plugin name="phonegap-plugin-push" spec="~1.10.5"/>
